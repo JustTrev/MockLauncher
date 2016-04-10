@@ -1,0 +1,326 @@
+4/6/2016 11:17:16 PM: DEBUG - 
+
+4/6/2016 11:17:16 PM: DEBUG - ----------------------------------------
+4/6/2016 11:17:16 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:17:16 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:17:16 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:17:16 PM: DEBUG - ----------------------------------------
+4/6/2016 11:17:16 PM No plugin updates available. [OK!]
+4/6/2016 11:17:46 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:17:46 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:17:46 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:17:46 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:17:46 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:17:46 PM: DEBUG - Loading settings...
+4/6/2016 11:17:46 PM: DEBUG - Load more settings...
+4/6/2016 11:17:46 PM: DEBUG - 
+
+4/6/2016 11:17:46 PM: DEBUG - ----------------------------------------
+4/6/2016 11:17:46 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:17:46 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:17:46 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:17:46 PM: DEBUG - ----------------------------------------
+4/6/2016 11:17:46 PM No plugin updates available. [OK!]
+4/6/2016 11:19:04 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:19:04 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:19:04 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:19:04 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:19:04 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:19:04 PM: DEBUG - Loading settings...
+4/6/2016 11:19:05 PM: DEBUG - Load more settings...
+4/6/2016 11:19:05 PM: DEBUG - 
+
+4/6/2016 11:19:05 PM: DEBUG - ----------------------------------------
+4/6/2016 11:19:05 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:19:05 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:19:05 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:19:05 PM: DEBUG - ----------------------------------------
+4/6/2016 11:19:05 PM No plugin updates available. [OK!]
+4/6/2016 11:22:37 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:22:37 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:22:37 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:22:37 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:22:37 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:22:37 PM: DEBUG - Loading settings...
+4/6/2016 11:22:37 PM: DEBUG - Load more settings...
+4/6/2016 11:22:37 PM: DEBUG - 
+
+4/6/2016 11:22:37 PM: DEBUG - ----------------------------------------
+4/6/2016 11:22:37 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:22:37 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:22:37 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:22:37 PM: DEBUG - ----------------------------------------
+4/6/2016 11:22:38 PM No plugin updates available. [OK!]
+4/6/2016 11:24:31 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:24:31 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:24:31 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:24:31 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:24:31 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:24:32 PM: DEBUG - Loading settings...
+4/6/2016 11:24:32 PM: DEBUG - Load more settings...
+4/6/2016 11:24:32 PM: DEBUG - 
+
+4/6/2016 11:24:32 PM: DEBUG - ----------------------------------------
+4/6/2016 11:24:32 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:24:32 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:24:32 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:24:32 PM: DEBUG - ----------------------------------------
+4/6/2016 11:24:32 PM No plugin updates available. [OK!]
+4/6/2016 11:37:35 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:37:35 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:37:35 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:37:35 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:37:35 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:37:36 PM: DEBUG - Loading settings...
+4/6/2016 11:37:36 PM: DEBUG - Load more settings...
+4/6/2016 11:37:36 PM: DEBUG - 
+
+4/6/2016 11:37:36 PM: DEBUG - ----------------------------------------
+4/6/2016 11:37:36 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:37:36 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:37:36 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:37:36 PM: DEBUG - ----------------------------------------
+4/6/2016 11:37:36 PM No plugin updates available. [OK!]
+4/6/2016 11:37:54 PM: DEBUG - Checking if the mock2Launcher is running
+4/6/2016 11:37:54 PM: DEBUG - Program started! - Logging enabled!
+4/6/2016 11:37:54 PM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/6/2016 11:37:54 PM: DEBUG - Loaded pso2_bin directory from settings
+4/6/2016 11:37:54 PM: DEBUG - Pursuing freedom...
+4/6/2016 11:37:54 PM: DEBUG - Loading settings...
+4/6/2016 11:37:54 PM: DEBUG - Load more settings...
+4/6/2016 11:37:54 PM: DEBUG - 
+
+4/6/2016 11:37:54 PM: DEBUG - ----------------------------------------
+4/6/2016 11:37:54 PM: DEBUG - Run as Administrator: True
+4/6/2016 11:37:54 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:37:54 PM: DEBUG - Is 7zip available: True
+4/6/2016 11:37:54 PM: DEBUG - ----------------------------------------
+4/6/2016 11:37:54 PM No plugin updates available. [OK!]
+4/7/2016 12:06:46 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 12:06:46 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 12:06:46 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 12:06:46 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 12:06:46 AM: DEBUG - Pursuing freedom...
+4/7/2016 12:06:46 AM: DEBUG - Loading settings...
+4/7/2016 12:06:46 AM: DEBUG - Load more settings...
+4/7/2016 12:06:46 AM: DEBUG - 
+
+4/7/2016 12:06:46 AM: DEBUG - ----------------------------------------
+4/7/2016 12:06:46 AM: DEBUG - Run as Administrator: True
+4/7/2016 12:06:46 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:06:46 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:06:46 AM: DEBUG - ----------------------------------------
+4/7/2016 12:06:47 AM No plugin updates available. [OK!]
+4/7/2016 12:08:09 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 12:08:09 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 12:08:09 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 12:08:09 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 12:08:09 AM: DEBUG - Pursuing freedom...
+4/7/2016 12:08:09 AM: DEBUG - Loading settings...
+4/7/2016 12:08:09 AM: DEBUG - Load more settings...
+4/7/2016 12:08:09 AM: DEBUG - 
+
+4/7/2016 12:08:09 AM: DEBUG - ----------------------------------------
+4/7/2016 12:08:09 AM: DEBUG - Run as Administrator: True
+4/7/2016 12:08:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:08:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:08:09 AM: DEBUG - ----------------------------------------
+4/7/2016 12:08:10 AM No plugin updates available. [OK!]
+4/7/2016 12:39:06 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 12:39:06 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 12:39:06 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 12:39:06 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 12:39:06 AM: DEBUG - Pursuing freedom...
+4/7/2016 12:39:06 AM: DEBUG - Loading settings...
+4/7/2016 12:39:06 AM: DEBUG - Load more settings...
+4/7/2016 12:39:06 AM: DEBUG - 
+
+4/7/2016 12:39:06 AM: DEBUG - ----------------------------------------
+4/7/2016 12:39:06 AM: DEBUG - Run as Administrator: True
+4/7/2016 12:39:06 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:39:06 AM: DEBUG - Is 7zip available: True
+4/7/2016 12:39:06 AM: DEBUG - ----------------------------------------
+4/7/2016 12:39:06 AM No plugin updates available. [OK!]
+4/7/2016 2:06:08 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:06:08 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:06:09 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:06:09 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:06:09 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:06:09 AM: DEBUG - Loading settings...
+4/7/2016 2:06:09 AM: DEBUG - Load more settings...
+4/7/2016 2:06:09 AM: DEBUG - 
+
+4/7/2016 2:06:09 AM: DEBUG - ----------------------------------------
+4/7/2016 2:06:09 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:06:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:06:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:06:09 AM: DEBUG - ----------------------------------------
+4/7/2016 2:06:09 AM No plugin updates available. [OK!]
+4/7/2016 2:13:29 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:13:29 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:13:29 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:13:29 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:13:29 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:13:29 AM: DEBUG - Loading settings...
+4/7/2016 2:13:29 AM: DEBUG - Load more settings...
+4/7/2016 2:13:29 AM: DEBUG - 
+
+4/7/2016 2:13:29 AM: DEBUG - ----------------------------------------
+4/7/2016 2:13:29 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:13:29 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:13:29 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:13:29 AM: DEBUG - ----------------------------------------
+4/7/2016 2:13:29 AM No plugin updates available. [OK!]
+4/7/2016 2:29:05 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:29:05 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:29:05 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:29:05 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:29:05 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:29:06 AM: DEBUG - Loading settings...
+4/7/2016 2:29:06 AM: DEBUG - Load more settings...
+4/7/2016 2:29:06 AM: DEBUG - 
+
+4/7/2016 2:29:06 AM: DEBUG - ----------------------------------------
+4/7/2016 2:29:06 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:29:06 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:29:06 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:29:06 AM: DEBUG - ----------------------------------------
+4/7/2016 2:29:06 AM No plugin updates available. [OK!]
+4/7/2016 2:29:08 AM: DEBUG - The process cannot access the file 'C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\bin\Debug\mock2Updater.exe' because it is being used by another process. Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at mock2Launcher.Helper.DeleteFile(String path) in C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\Helper.vb:line 85
+4/7/2016 2:29:08 AM Must be some kind of error.The process cannot access the file 'C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\bin\Debug\mock2Updater.exe' because it is being used by another process.
+4/7/2016 2:29:51 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:29:51 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:29:51 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:29:51 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:29:51 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:29:51 AM: DEBUG - Loading settings...
+4/7/2016 2:29:51 AM: DEBUG - Load more settings...
+4/7/2016 2:29:51 AM: DEBUG - 
+
+4/7/2016 2:29:51 AM: DEBUG - ----------------------------------------
+4/7/2016 2:29:51 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:29:51 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:29:51 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:29:51 AM: DEBUG - ----------------------------------------
+4/7/2016 2:29:51 AM No plugin updates available. [OK!]
+4/7/2016 2:29:53 AM: DEBUG - The process cannot access the file 'C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\bin\Debug\mock2Updater.exe' because it is being used by another process. Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at mock2Launcher.Helper.DeleteFile(String path) in C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\Helper.vb:line 85
+4/7/2016 2:29:53 AM Must be some kind of error.The process cannot access the file 'C:\Users\JustTrev\Documents\Visual Studio 2015\Projects\PSO2\PSO2\bin\Debug\mock2Updater.exe' because it is being used by another process.
+4/7/2016 2:44:16 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:44:16 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:44:16 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:44:16 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:44:16 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:44:16 AM: DEBUG - Loading settings...
+4/7/2016 2:44:16 AM: DEBUG - Load more settings...
+4/7/2016 2:44:16 AM: DEBUG - 
+
+4/7/2016 2:44:16 AM: DEBUG - ----------------------------------------
+4/7/2016 2:44:16 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:44:16 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:44:16 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:44:16 AM: DEBUG - ----------------------------------------
+4/7/2016 2:44:49 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:44:49 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:44:49 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:44:49 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:44:49 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:44:49 AM: DEBUG - Loading settings...
+4/7/2016 2:44:49 AM: DEBUG - Load more settings...
+4/7/2016 2:44:49 AM: DEBUG - 
+
+4/7/2016 2:44:49 AM: DEBUG - ----------------------------------------
+4/7/2016 2:44:49 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:44:49 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:44:49 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:44:49 AM: DEBUG - ----------------------------------------
+4/7/2016 2:47:20 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:47:20 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:47:20 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:47:20 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:47:20 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:47:20 AM: DEBUG - Loading settings...
+4/7/2016 2:47:20 AM: DEBUG - Load more settings...
+4/7/2016 2:47:20 AM: DEBUG - 
+
+4/7/2016 2:47:20 AM: DEBUG - ----------------------------------------
+4/7/2016 2:47:20 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:47:20 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:47:20 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:47:20 AM: DEBUG - ----------------------------------------
+4/7/2016 2:47:58 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:47:58 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:47:58 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:47:58 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:47:58 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:47:58 AM: DEBUG - Loading settings...
+4/7/2016 2:47:58 AM: DEBUG - Load more settings...
+4/7/2016 2:47:58 AM: DEBUG - 
+
+4/7/2016 2:47:58 AM: DEBUG - ----------------------------------------
+4/7/2016 2:47:58 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:47:58 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:47:58 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:47:58 AM: DEBUG - ----------------------------------------
+4/7/2016 2:48:55 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:48:55 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:48:55 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:48:55 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:48:55 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:48:56 AM: DEBUG - Loading settings...
+4/7/2016 2:48:56 AM: DEBUG - Load more settings...
+4/7/2016 2:48:56 AM: DEBUG - 
+
+4/7/2016 2:48:56 AM: DEBUG - ----------------------------------------
+4/7/2016 2:48:56 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:48:56 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:48:56 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:48:56 AM: DEBUG - ----------------------------------------
+4/7/2016 2:49:03 AM No plugin updates available. [OK!]
+4/7/2016 2:51:50 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:51:50 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:51:50 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:51:50 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:51:50 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:51:50 AM: DEBUG - Loading settings...
+4/7/2016 2:51:50 AM: DEBUG - Load more settings...
+4/7/2016 2:51:50 AM: DEBUG - 
+
+4/7/2016 2:51:50 AM: DEBUG - ----------------------------------------
+4/7/2016 2:51:50 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:51:50 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:51:50 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:51:50 AM: DEBUG - ----------------------------------------
+4/7/2016 2:52:09 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 2:52:09 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 2:52:09 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 2:52:09 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 2:52:09 AM: DEBUG - Pursuing freedom...
+4/7/2016 2:52:09 AM: DEBUG - Loading settings...
+4/7/2016 2:52:09 AM: DEBUG - Load more settings...
+4/7/2016 2:52:09 AM: DEBUG - 
+
+4/7/2016 2:52:09 AM: DEBUG - ----------------------------------------
+4/7/2016 2:52:09 AM: DEBUG - Run as Administrator: True
+4/7/2016 2:52:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:52:09 AM: DEBUG - Is 7zip available: True
+4/7/2016 2:52:09 AM: DEBUG - ----------------------------------------
+4/7/2016 2:52:11 AM No plugin updates available. [OK!]
+4/7/2016 3:23:18 AM: DEBUG - Checking if the mock2Launcher is running
+4/7/2016 3:23:18 AM: DEBUG - Program started! - Logging enabled!
+4/7/2016 3:23:18 AM: DEBUG - Attempting to auto-load pso2_bin directory from settings
+4/7/2016 3:23:18 AM: DEBUG - Loaded pso2_bin directory from settings
+4/7/2016 3:23:18 AM: DEBUG - Pursuing freedom...
+4/7/2016 3:23:18 AM: DEBUG - Loading settings...
+4/7/2016 3:23:18 AM: DEBUG - Load more settings...
+4/7/2016 3:23:18 AM: DEBUG - 
+
+4/7/2016 3:23:18 AM: DEBUG - ----------------------------------------
+4/7/2016 3:23:18 AM: DEBUG - Run as Administrator: True
+4/7/2016 3:23:18 AM: DEBUG - Is 7zip available: True
+4/7/2016 3:23:18 AM: DEBUG - Is 7zip available: True
+4/7/2016 3:23:18 AM: DEBUG - ----------------------------------------
+4/7/2016 3:23:18 AM No plugin updates available. [OK!]
